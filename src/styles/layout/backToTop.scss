@@ -13,7 +13,7 @@
       bottom: 70px;
       right: 50px;
     }
-    z-index: 99;
+    z-index: 9; // Above pretty much everything, just not modals
   }
   // Font decoration
   color: $color--white;

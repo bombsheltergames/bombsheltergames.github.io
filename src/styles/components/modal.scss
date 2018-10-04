@@ -11,6 +11,7 @@
   top: 0;
   bottom: 0;
   display: flex;
+  z-index: 10; // Above everything, including Back to Top
   @media screen and (min-width: $bp--1000) {
     padding: $spacing--2000;
   }
