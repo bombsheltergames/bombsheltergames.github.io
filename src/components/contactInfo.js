@@ -4,7 +4,7 @@ import React from "react";
 import Button from "components/button";
 // Style Imports
 import "styles/components/contactInfo.css";
-// Import Press Kit zip file for download
+// Import Press Kit file for download
 import DoSPressKit from "press/DoSPressKit.zip";
 
 const ContactInfo = () => {
