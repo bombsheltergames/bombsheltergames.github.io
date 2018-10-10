@@ -4,6 +4,8 @@ import React from "react";
 import Button from "components/button";
 // Style Imports
 import "styles/components/contactInfo.css";
+// Import Press Kit zip file for download
+import DoSPressKit from "press/DoSPressKit.zip";
 
 const ContactInfo = () => {
   return (
@@ -15,7 +17,7 @@ const ContactInfo = () => {
       <p>
         <strong>Press Inquiries:</strong> press[at]bombsheltergames[dot]com
       </p>
-      <Button type="ghost" href="/DoSPressKit.zip" download>
+      <Button type="ghost" href={DoSPressKit} download>
         Download Press Kit
       </Button>
     </div>
