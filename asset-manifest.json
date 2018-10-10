@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.782c0913.css",
   "main.css.map": "static/css/main.782c0913.css.map",
-  "main.js": "static/js/main.826a105a.js",
-  "main.js.map": "static/js/main.826a105a.js.map",
+  "main.js": "static/js/main.d0d3304c.js",
+  "main.js.map": "static/js/main.d0d3304c.js.map",
   "static/media/01.jpg": "static/media/01.7bf025fd.jpg",
   "static/media/02.jpg": "static/media/02.d5b41f73.jpg",
   "static/media/03.jpg": "static/media/03.e480d14d.jpg",
@@ -17,6 +17,7 @@
   "static/media/12.png": "static/media/12.5607d32a.png",
   "static/media/13.png": "static/media/13.dbbf85d6.png",
   "static/media/14.png": "static/media/14.c0054086.png",
+  "static/media/DoSPressKit.zip": "static/media/DoSPressKit.03fbf3a8.zip",
   "static/media/dos-hero.png": "static/media/dos-hero.fc3f5bad.png",
   "static/media/dos-previewImage.png": "static/media/dos-previewImage.31c25b0b.png",
   "static/media/dos-tentacles-sm.png": "static/media/dos-tentacles-sm.d20e8fbe.png",
